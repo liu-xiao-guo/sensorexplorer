@@ -1,0 +1,17 @@
+{
+    "name": "sensorexplorer.liu-xiao-guo",
+    "description": "description of sensorexplorer",
+    "architecture": "@CLICK_ARCH@",
+    "title": "sensorexplorer",
+    "hooks": {
+        "sensorexplorer": {
+            "apparmor": "sensorexplorer/sensorexplorer.apparmor",
+            "desktop":  "sensorexplorer/sensorexplorer.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

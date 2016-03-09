@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=sensorexplorer
+Exec=sensorexplorer
+Icon=sensorexplorer/sensor.jpg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
